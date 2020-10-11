@@ -1,4 +1,4 @@
-package hm
+package hdesmd5
 
 import (
 	"bytes"
